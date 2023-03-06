@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Jacob Shomali
 
 - 👀 I’m interested in ... puzzles
-- 🌱 I’m currently learning ... storybook
-- 💞️ I’m looking to collaborate on ... angular
-- 📫 How to reach me ... jacobshomali3@gmail.com
+- 🌱 I’m currently learning ... RXJS
+- 💞️ I’m looking to collaborate on ... AI
+- 📫 How to reach me ... jacobshomali21@gmail.com
 - My portfolio ... https://collerhatguy.github.io/portfolio-angular/
 - My LinkIn ... https://www.linkedin.com/in/jacob-shomali-a206aa1ba/
 
